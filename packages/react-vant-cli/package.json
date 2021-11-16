@@ -67,7 +67,7 @@
     "fork-ts-checker-webpack-plugin": "^6.3.3",
     "friendly-errors-webpack-plugin": "^1.7.0",
     "front-matter": "^4.0.2",
-    "fs-extra": "^9.0.1",
+    "fs-extra": "^10.0.0",
     "gulp-if": "^3.0.0",
     "gulp-plumber": "^1.2.1",
     "gulp-typescript": "^6.0.0-alpha.1",
