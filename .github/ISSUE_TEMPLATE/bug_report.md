@@ -3,7 +3,7 @@ name: "\U0001F41B Bug report"
 about: Create a report to help us improve
 title: "\U0001F41B [Component] xxxxx"
 labels: bug
-assignees: '0x219'
+assignees: "0x219"
 ---
 
 ### 🐛 漏洞描述 (Bug description)

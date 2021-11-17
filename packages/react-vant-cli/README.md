@@ -1,7 +1,11 @@
-# react-vant-cli
+# React Vant CLI
 
-react vant cli 是一个 React 组件库构建工具，通过 react vant cli 可以快速搭建一套 React 组件库
+📦 A **React** component library building tool.
 
-## 特性
+## Status
 
-- 提供丰富的命令，涵盖从开发测试到构建发布的完整流程
+🚧 In development...
+
+## License
+
+[MIT](./LICENSE) ⓒ 3lang3

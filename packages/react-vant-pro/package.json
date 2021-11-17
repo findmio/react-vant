@@ -1,5 +1,5 @@
 {
-  "name": "react-vant",
+  "name": "react-vant-pro",
   "version": "0.0.0-development",
   "description": "📱 A mobile component library based on the React framework according to Vant.",
   "keywords": [
@@ -18,10 +18,7 @@
     "dev": "",
     "build": ""
   },
-  "dependencies": {
-    "clsx": "1.1.1",
-    "react-transition-group": "4.4.2"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/react": "17.0.35",
     "@types/react-dom": "17.0.11",
