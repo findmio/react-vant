@@ -1,6 +1,6 @@
 import './styles';
 
-export * as hooks from './hooks';
+export { default as hooks } from './hooks';
 export * from './button';
 export { default as Badge } from './badge';
 export * from './field';
@@ -67,3 +67,4 @@ export { default as CouponCell } from './coupon-cell';
 export { default as CouponList } from './coupon-list';
 export * from './sku';
 export * from './swiper';
+export * from './floating-ball';

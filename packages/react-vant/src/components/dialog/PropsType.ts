@@ -9,10 +9,6 @@ export interface DialogProps extends Omit<BaseTypeProps, 'children'> {
   visible?: boolean;
   /** 是否显示右上角关闭按钮 */
   closeable?: boolean;
-  /**
-   * 自定义关闭按钮
-   * @see https://3lang3.github.io/react-vant/#/zh-CN/icon
-   */
   closeIcon?: React.ReactNode;
   /** 标题 */
   title?: string | React.ReactNode;
@@ -29,13 +25,13 @@ export interface DialogProps extends Omit<BaseTypeProps, 'children'> {
   /** 是否显示取消按钮 */
   showCancelButton?: boolean;
   /** 取消按钮文本设置 */
-  cancelButtonText?: string;
+  cancelButtonText?: React.ReactNode;
   /** 取消按钮文字颜色 */
   cancelButtonColor?: string;
   /** 是否显示确认按钮 */
   showConfirmButton?: boolean;
   /** 确认按钮文本设置 */
-  confirmButtonText?: string;
+  confirmButtonText?: React.ReactNode;
   /** 确认按钮文本颜色 */
   confirmButtonColor?: string;
   /** 是否显示背景遮罩层	 */
@@ -74,7 +70,7 @@ export interface DialogProps extends Omit<BaseTypeProps, 'children'> {
 export type AlertDialogProps = Omit<DialogProps, 'confirmButtonText' | 'onCancel'>;
 
 export type DialogStatic = {
-  (props: DialogProps): React.ReactNode;
+  (props: DialogProps): React.ReactElement;
   show: (props: DialogProps) => void;
   confirm: (props: DialogProps) => Promise<boolean>;
   alert: (props: DialogProps) => Promise<React.MouseEvent>;

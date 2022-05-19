@@ -1,6 +1,6 @@
 import './components/styles';
 
-export * as hooks from './components/hooks';
+export { default as hooks } from './components/hooks';
 export * from './components/button';
 export { default as Badge } from './components/badge';
 export * from './components/field';
@@ -67,3 +67,4 @@ export { default as CouponCell } from './components/coupon-cell';
 export { default as CouponList } from './components/coupon-list';
 export * from './components/sku';
 export * from './components/swiper';
+export * from './components/floating-ball';

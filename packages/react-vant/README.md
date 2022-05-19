@@ -19,6 +19,9 @@ English | [简体中文](https://github.com/3lang3/react-vant/blob/main/packages
   <a href="https://github.com/3lang3/react-vant/discussions" target="_blank" referrerpolicy="no-referrer">
     <img src="https://img.shields.io/badge/discussions-on%20github-blue?style=flat-square" alt="discussions" />
   </a>
+  <a href="https://github.com/3lang3/rcdoc" target="_blank" referrerpolicy="no-referrer">
+    <img src="https://img.shields.io/badge/docs%20by-rcdoc-blue?style=flat-square" alt="rcdoc" />
+  </a>
   <a href="https://github.com/3lang3/react-vant/discussions" target="_blank" referrerpolicy="no-referrer">
     <img src="https://img.shields.io/npm/l/react-vant?style=flat-square" alt="license" />
   </a>
@@ -105,13 +108,13 @@ ReactDOM.render(<App />, mountNode);
 - [Remix](https://github.com/3lang3/react-vant-template/tree/main/next/remix)
 - [Vite](https://github.com/3lang3/react-vant-template/tree/main/next/vite)
 
-For more information, please refer to [QuickStart](https://3lang3.github.io/react-vant/#/zh-CN/).
+For more information, please refer to [QuickStart](https://react-vant.3lang.dev/guide/quickstart).
 
 ## 🤝 Contributing
 
 Read our contributing guide and let's build a better react-vant together.
 
-We welcome all contributions. Please read our [CONTRIBUTING.md](https://3lang3.github.io/react-vant/#/zh-CN/contribution) first. You can submit any ideas as pull requests or as GitHub issues. :)
+We welcome all contributions. Please read our [CONTRIBUTING.md](https://react-vant.3lang.dev/guide/contribution) first. You can submit any ideas as pull requests or as GitHub issues. :)
 
 ## 💭 Discuss
 
@@ -157,6 +160,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/GangYHu"><img src="https://avatars.githubusercontent.com/u/26001209?v=4?s=100" width="100px;" alt=""/><br /><sub><b>GangYHu</b></sub></a><br /><a href="https://github.com/3lang3/react-vant/issues?q=author%3AGangYHu" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/Jungzl"><img src="https://avatars.githubusercontent.com/u/35426360?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jungzl</b></sub></a><br /><a href="https://github.com/3lang3/react-vant/commits?author=Jungzl" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/ZhaoTim"><img src="https://avatars.githubusercontent.com/u/30540533?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tim Zhao</b></sub></a><br /><a href="https://github.com/3lang3/react-vant/commits?author=ZhaoTim" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/class-undefined"><img src="https://avatars.githubusercontent.com/u/58300575?v=4?s=100" width="100px;" alt=""/><br /><sub><b>野漫横江</b></sub></a><br /><a href="https://github.com/3lang3/react-vant/issues?q=author%3Aclass-undefined" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://blog.ndc.work"><img src="https://avatars.githubusercontent.com/u/20502666?v=4?s=100" width="100px;" alt=""/><br /><sub><b>NoDocCat</b></sub></a><br /><a href="https://github.com/3lang3/react-vant/issues?q=author%3ANoDocCat" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/xni220"><img src="https://avatars.githubusercontent.com/u/2124073?v=4?s=100" width="100px;" alt=""/><br /><sub><b>zhong yiqun</b></sub></a><br /><a href="https://github.com/3lang3/react-vant/issues?q=author%3Axni220" title="Bug reports">🐛</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://koofrank.com/"><img src="https://avatars.githubusercontent.com/u/3366943?v=4?s=100" width="100px;" alt=""/><br /><sub><b>KooFrank</b></sub></a><br /><a href="https://github.com/3lang3/react-vant/issues?q=author%3Aphpmaple" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="http://songhn.com"><img src="https://avatars.githubusercontent.com/u/47357585?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Songhn</b></sub></a><br /><a href="https://github.com/3lang3/react-vant/issues?q=author%3Asonghn233" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/JR0613"><img src="https://avatars.githubusercontent.com/u/58196913?v=4?s=100" width="100px;" alt=""/><br /><sub><b>晚枫</b></sub></a><br /><a href="https://github.com/3lang3/react-vant/issues?q=author%3AJR0613" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
